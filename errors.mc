@@ -1,0 +1,2 @@
+import megacode
+init.mc()
